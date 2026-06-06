@@ -146,3 +146,9 @@
 ![代码推送](./page/images/codepush.png)
 
 配置后重新点击构建，即可推送到指定的代码仓
+
+!(推送成功https://github.com/Sys-Designer/test-backend-demo#)[https://github.com/Sys-Designer/test-backend-demo#]
+![推送成功](./page/images/github-demo.png)
+
+!(查看实现的函数)[https://github.com/Sys-Designer/test-backend-demo/blob/master/com-test-lib/src/main/java/com/test/function/lib/impl/test/BaseTestFunction.java]
+![函数实现](./page/images/method-demo.png)
