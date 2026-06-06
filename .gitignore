@@ -1,0 +1,16 @@
+# 依赖
+node_modules
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# vitepress缓存、构建产物
+docs/.vitepress/cache
+docs/.vitepress/.temp
+
+# 系统、编辑器
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

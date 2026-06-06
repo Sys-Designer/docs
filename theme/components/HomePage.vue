@@ -12,8 +12,8 @@
       </div>
       <nav class="nav-list">
         <a href="/">首页</a>
-        <a href="/guide/install">安装教程</a>
-        <a href="/guide/api">API文档</a>
+        <a href="/guide/home">用户手册</a>
+        <a href="/guide/item">联系我们</a>
       </nav>
     </div>
   </header>
@@ -21,9 +21,9 @@
   <section class="banner">
     <div class="container banner-content">
       <div class="banner-text">
-        <div class="badge">MCP · AI协同 · 模型驱动</div>
+        <div class="badge">MCP · AI协同 · 模型驱动 · 前端后端测试全流程一体化</div>
         <h1>Sys-Designer <span class="highlight">一体化设计平台</span></h1>
-        <p class="desc">一体化设计平台<br>快速构建企业级应用系统</p>
+        <p class="desc">一体化设计平台<br>快速构建应用系统</p>
         <div class="btns">
           <a class="btn primary" href="/guide/home">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
@@ -41,7 +41,7 @@
     </div>
   </section>
 
-  <section class="stats container">
+  <!-- <section class="stats container">
     <div class="stat-item" v-for="stat in stats" :key="stat.label">
       <div class="stat-value">{{ stat.value }}</div>
       <div class="stat-label">{{ stat.label }}</div>
@@ -82,30 +82,28 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <footer class="footer">
     <div class="container">
       <div class="footer-content">
         <div class="footer-brand">
           <div class="logo">
-            <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2"/>
-            </svg>
+            <img src="/logo.png" alt="idesign" style="height:36px;vertical-align:middle;margin-right:8px;">
             <span>Sys-Designer 一体化设计平台</span>
           </div>
-          <p>企业级低代码设计平台</p>
+          <p>模型驱动 · AI协同 · 全流程</p>
         </div>
         <div class="footer-links">
-          <div class="link-group">
+          <!-- <div class="link-group">
             <h4>文档</h4>
             <a href="/guide/install">安装教程</a>
             <a href="/guide/api">API文档</a>
-          </div>
+          </div> -->
           <div class="link-group">
             <h4>资源</h4>
-            <a href="#">GitHub</a>
-            <a href="#">更新日志</a>
+            <a href="https://github.com/Sys-Designer">GitHub</a>
+            <!-- <a href="/guide/log">更新日志</a> -->
           </div>
         </div>
       </div>
