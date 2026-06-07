@@ -29,7 +29,11 @@
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
             帮助手册
           </a>
-          <a class="btn" href="http://www.sys-designer.com" target="_blank">
+          <!-- <a class="btn" href="http://www.sys-designer.com" target="_blank">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg>
+            官网
+          </a> -->
+          <a class="btn" href="http://47.94.122.115/" target="_blank">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg>
             官网
           </a>
